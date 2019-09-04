@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd64531a-853e-4de6-9bf1-77544aca7e8c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven\apache-maven-3.6.1\repo" />
+        <option name="mavenHome" value="D:/maven/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QJh4m2qlo5Ep9k51WRjYBVp2E0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567491282872" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nchu" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nchu.mapper" />
+      <recent name="com.nchu.dao" />
+      <recent name="com.nchu.pojo.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SSMProjects\code\shopping-parent\manager-web\src\main\java\com\nchu\manager\controller" />
+      <recent name="D:\SSMProjects\code\shopping-parent\manager-web\src\main\resources\static\js\service" />
+      <recent name="D:\SSMProjects\code\shopping-parent\manager-web\src\main\resources\static\js\controller" />
+      <recent name="G:\nchu2019\shopping-parent\sellergoods-service\src\main\java\com\nchu\sellergoods\service\impl" />
+      <recent name="G:\nchu2019\shopping-parent\dao\src\main\resources\mapping" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManagerWebApplication">
+    <configuration name="DaoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.dao.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nchu.dao.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nchu.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.nchu.dao.DaoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="springboot-mybatis" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/generatemybatisfile" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CartInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartinterface.CartInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartservice.CartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.cartweb.CartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="content-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.contentinterface.ContentInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="content-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.contentservice.ContentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.DaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratemybatisfileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="generatemybatisfile" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.generatemybatisfile.GeneratemybatisfileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.itemweb.ItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="manager-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.manager.ManagerWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderinterface.OrderInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.orderweb.OrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportinterface.PassportInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportservice.PassportServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="passport-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.passportweb.PassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PojoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pojo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.PojoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortalWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="portal-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.portalweb.PortalWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchinterface.SearchInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchservice.SearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.searchweb.SearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellergoodsInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sellergoods-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.sellergoods.SellergoodsInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellergoodsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sellergoods-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.sellergoods.SellergoodsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nchu.shopweb.ShopWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DaoApplicationTests" />
+      <item itemvalue="JUnit.DaoApplicationTests.contextLoads" />
+      <item itemvalue="Maven.springboot-mybatis" />
+      <item itemvalue="Spring Boot.DaoApplication" />
+      <item itemvalue="Spring Boot.GeneratemybatisfileApplication" />
+      <item itemvalue="Spring Boot.PojoApplication" />
+      <item itemvalue="Spring Boot.CartInterfaceApplication" />
+      <item itemvalue="Spring Boot.CartServiceApplication" />
+      <item itemvalue="Spring Boot.CartWebApplication" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.ContentInterfaceApplication" />
+      <item itemvalue="Spring Boot.ContentServiceApplication" />
+      <item itemvalue="Spring Boot.ItemWebApplication" />
+      <item itemvalue="Spring Boot.ManagerWebApplication" />
+      <item itemvalue="Spring Boot.OrderInterfaceApplication" />
+      <item itemvalue="Spring Boot.OrderServiceApplication" />
+      <item itemvalue="Spring Boot.OrderWebApplication" />
+      <item itemvalue="Spring Boot.PassportInterfaceApplication" />
+      <item itemvalue="Spring Boot.PassportServiceApplication" />
+      <item itemvalue="Spring Boot.PassportWebApplication" />
+      <item itemvalue="Spring Boot.PortalWebApplication" />
+      <item itemvalue="Spring Boot.SearchInterfaceApplication" />
+      <item itemvalue="Spring Boot.SearchServiceApplication" />
+      <item itemvalue="Spring Boot.SearchWebApplication" />
+      <item itemvalue="Spring Boot.SellergoodsInterfaceApplication" />
+      <item itemvalue="Spring Boot.SellergoodsServiceApplication" />
+      <item itemvalue="Spring Boot.ShopWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaoApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.DaoApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@db4b4e19" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@db4b4e19" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@44846612" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd64531a-853e-4de6-9bf1-77544aca7e8c" name="Default Changelist" comment="" />
+      <created>1566960018315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566960018315</updated>
+      <workItem from="1566960019567" duration="15156000" />
+      <workItem from="1567040707956" duration="21909000" />
+      <workItem from="1567126996239" duration="14096000" />
+      <workItem from="1567388740664" duration="11641000" />
+      <workItem from="1567445875752" duration="48000" />
+      <workItem from="1567472750278" duration="7550000" />
+      <workItem from="1567490526395" duration="973000" />
+      <workItem from="1567494420230" duration="3659000" />
+      <workItem from="1567499749583" duration="14376000" />
+      <workItem from="1567558476758" duration="11018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.28 at 19h 58m 34s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 06m 47s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 11m 15s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 33m 07s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 36m 32s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 38m 25s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 09h 40m 38s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 08m 17s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 10m 51s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoApplicationTests_contextLoads - 2019.08.29 at 11h 12m 34s.xml">
+      <configuration name="DaoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/manager-web/src/main/java/com/nchu/manager/controller/BrandController.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-logging-1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>c3p0-0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
